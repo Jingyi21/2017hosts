@@ -1,7 +1,9 @@
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966"></a>
 ####提示：所有网站均需要以https方式打开，置顶提醒！tumblr网页版播放视频都是从用户的子域名获取文件的，所以没法播放。<br />
-####近期更新：2017年3月23日
+####近期更新：2017年7月18日
 **此说明请务必仔细阅读**
+
+**以下内容均为项目原作者原文，由本人更新部分放在末尾处**
 
 **请各位网络喷子，网评员，水军等人自觉绕道，左拐不送！**
 
@@ -53,6 +55,8 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 
 ### 电脑
 
+2017.7.18 更新：
+
 * **youtube**
 发布时测试功能98%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/QQ%E6%88%AA%E5%9B%BE20170121230113.png"></a>
@@ -76,10 +80,11 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/4.png"></a>
 
+<del>
 * **Twitter**
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/5.png"></a>
-
+</del>
 * **vimeo**
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/6.png"></a>
