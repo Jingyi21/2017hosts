@@ -4743,24 +4743,24 @@
 # FlipBoard End
 
 # Github start
-219.76.4.9 raw.githubusercontent.com
-219.76.4.9 github.global.ssl.fastly.net
-219.76.4.9  api.github.com
-219.76.4.9   collector.githubapp.com
-219.76.4.9 assets-cdn.github.com
-219.76.4.9  documentcloud.github.com
-192.30.255.113  github.com
-219.76.4.9 codeload.github.com
-219.76.4.9  gist.github.com
-219.76.4.9  help.github.com
-219.76.4.9  nodeload.github.com
-219.76.4.9   raw.github.com
-219.76.4.9    status.github.com
-219.76.4.9 training.github.com
-219.76.4.9 www.github.com
-219.76.4.9  avatars0.githubusercontent.com
-219.76.4.9   avatars1.githubusercontent.com
-219.76.4.9	google.github.io
+#219.76.4.9 raw.githubusercontent.com
+#219.76.4.9 github.global.ssl.fastly.net
+#219.76.4.9  api.github.com
+#219.76.4.9   collector.githubapp.com
+#219.76.4.9 assets-cdn.github.com
+#219.76.4.9  documentcloud.github.com
+#192.30.255.113  github.com
+#219.76.4.9 codeload.github.com
+#219.76.4.9  gist.github.com
+#219.76.4.9  help.github.com
+#219.76.4.9  nodeload.github.com
+#219.76.4.9   raw.github.com
+#219.76.4.9    status.github.com
+#219.76.4.9 training.github.com
+#219.76.4.9 www.github.com
+#219.76.4.9  avatars0.githubusercontent.com
+#219.76.4.9   avatars1.githubusercontent.com
+#219.76.4.9	google.github.io
 # Github end
 
 
@@ -26021,3 +26021,23 @@
 #Nokia start 
 52.3.37.45 supl.nokia.com
 #Nokia end
+
+#KanColle start
+106.186.27.62	www.dmm.com
+106.186.27.62	www.dmm.co.jp
+106.186.27.62	sp.dmm.com
+106.186.27.62	sp.dmm.co.jp
+106.186.27.62	actress.dmm.co.jp
+106.186.27.62	book.dmm.com
+106.186.27.62	book.dmm.co.jp
+106.186.27.62	www.akabeesoft2.com
+106.186.27.62	www.akabeesoft3.com
+106.186.27.62	www.akatsukiworks.com
+106.186.27.62	www.alicesoft.com
+106.186.27.62	www.cosmiccute.com
+106.186.27.62	www.hibiki-site.com
+106.186.27.62	www.minori.ph
+106.186.27.62	erogamescape.ddo.jp
+106.186.27.62	tenco.cc
+106.186.27.62	wheel-soft.com
+#KanColle End
