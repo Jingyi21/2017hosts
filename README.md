@@ -3,8 +3,6 @@
 ####近期更新：2017年7月18日
 **此说明请务必仔细阅读**
 
-**以下内容均为项目原作者原文，由本人更新部分放在末尾处**
-
 **请各位网络喷子，网评员，水军等人自觉绕道，左拐不送！**
 
 ##简介
@@ -85,6 +83,7 @@ WALL具备刺探TLS的能力（可以知道你访问的URL详细地址并且可�
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/5.png"></a>
 </del>
+
 * **vimeo**
 发布时测试功能100%正常
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/6.png"></a>
